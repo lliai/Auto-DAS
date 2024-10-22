@@ -1,0 +1,5 @@
+torch
+torchvision
+nas-bench-201
+# nasbench
+# https://github.com/romulus0914/NASBench-PyTorch.git

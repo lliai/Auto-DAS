@@ -1,0 +1,16 @@
+from .AB import ABLoss  # noqa: F401
+from .AT import Attention  # noqa: F401
+from .CC import Correlation  # noqa: F401
+from .CRD import CRDLoss  # noqa: F401
+from .FitNet import HintLoss  # noqa: F401
+from .FSP import FSP  # noqa: F401
+from .FT import FactorTransfer  # noqa: F401
+from .ICKD import ICKDLoss  # noqa: F401
+from .KD import DistillKL  # noqa: F401
+from .KDSVD import KDSVD  # noqa: F401
+from .NST import NSTLoss  # noqa: F401
+from .PKT import PKT  # noqa: F401
+from .RKD import RKDLoss  # noqa: F401
+from .RMI import RMI_loss  # noqa: F401
+from .SP import Similarity  # noqa: F401
+from .VID import VIDLoss  # noqa: F401
